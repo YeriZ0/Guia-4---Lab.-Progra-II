@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1712797649 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\main.cpp
+	<iostream>
+	<stdlib.h>
+	<thread>
+	<chrono>
+	"OSWindows.h"
+	"OSLinux.h"
+	"OSOSx.h"
+
+1712789079 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712788648 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\iaperiencia.h
+
+1712797649 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\oswindows.cpp
+	"OSWindows.h"
+
+1712788648 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\iaperiencia.cpp
+	"iAperiencia.h"
+
+1712788648 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\iapariencia.h
+
+1712789079 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712797676 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\ososx.cpp
+	"OSOSx.h"
+
+1712789408 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\ososx.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712797683 source:c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\oslinux.cpp
+	"OSLinux.h"
+
+1712789408 c:\users\fredy\documents\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\oslinux.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712797816 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\main.cpp
+	<iostream>
+	<stdlib.h>
+	<thread>
+	<chrono>
+	"OSWindows.h"
+	"OSLinux.h"
+	"OSOSx.h"
+
+1712789079 d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\oswindows.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712788648 d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\iapariencia.h
+
+1712789408 d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\oslinux.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712789408 d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\ososx.h
+	<stdio.h>
+	<windows.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712789079 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712797683 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\oslinux.cpp
+	"OSLinux.h"
+
+1712797676 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\ososx.cpp
+	"OSOSx.h"
+
+1712797649 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 4 - fredy alexander campos figueroa\herencia e interfaz\src\oswindows.cpp
+	"OSWindows.h"
+
